@@ -23,7 +23,6 @@ class JianshuSpiderSpider(CrawlSpider):
         #item['description'] = response.xpath('//div[@id="description"]').get()
         html = etree.HTML(response.text)
         # self.open_file(response.text)
-        item['url'] = response.url.split("?")[0]
         item['title'] = html.xpath("//title/text()")[0].split('-')[0]
         item['name'] = html.xpath('//span[@class="_22gUMi"]/text()')[0]
         item['url'] = response.url.split("?")[0]
