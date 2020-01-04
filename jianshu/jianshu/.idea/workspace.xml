@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16b6f830-a457-4a08-a676-92b400f754f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VsXi1uih5Tosfd0sZDRbKawvju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start_jianshu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jianshu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start_jianshu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start_jianshu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b6f830-a457-4a08-a676-92b400f754f8" name="Default Changelist" comment="" />
+      <created>1578042899823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578042899823</updated>
+      <workItem from="1578042903165" duration="14072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578043687452">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1578043687452" />
+    <state width="702" height="303" key="GridCell.Tab.0.bottom" timestamp="1578070895616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578070895616" />
+    <state width="702" height="303" key="GridCell.Tab.0.center" timestamp="1578070895613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578070895613" />
+    <state width="702" height="303" key="GridCell.Tab.0.left" timestamp="1578070895612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578070895612" />
+    <state width="702" height="303" key="GridCell.Tab.0.right" timestamp="1578070895615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578070895615" />
+    <state width="702" height="303" key="GridCell.Tab.1.bottom" timestamp="1578070727727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578070727727" />
+    <state width="702" height="303" key="GridCell.Tab.1.center" timestamp="1578070727725">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578070727725" />
+    <state width="702" height="303" key="GridCell.Tab.1.left" timestamp="1578070727723">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578070727723" />
+    <state width="702" height="303" key="GridCell.Tab.1.right" timestamp="1578070727726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="702" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578070727726" />
+    <state x="0" y="89" key="SettingsEditor" timestamp="1578043716835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578043716835" />
+    <state width="546" height="450" key="XDebugger.FullValuePopup" timestamp="1578046496516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="546" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1578046496516" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chrome_middlewares.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chrome_middlewares.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jianshu$start_jianshu.coverage" NAME="start_jianshu Coverage Results" MODIFIED="1578070263735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
