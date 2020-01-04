@@ -3,7 +3,7 @@ import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 from lxml import etree
-from jianshu.items import JianshuItem
+from jianshu.jianshu.items import JianshuItem
 
 
 class JianshuSpiderSpider(CrawlSpider):
